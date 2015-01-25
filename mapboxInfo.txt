@@ -1,0 +1,60 @@
+YMHTS
+
+chrisitalik.l1nnb1l2
+
+
+Center of york
+53.953, -1.082, 12
+
+Adult Learning disability Service #f86767
+
+The Hut York
+Clarence Gardens Buildings
+Wiggington Road
+York
+YO31 8HG
+53.970831, -1.081375
+
+
+
+Adult Mental Health Services #a3e46b
+
+The Healing Clinic
+Club Chambers
+Museum Street
+York
+YO1 7DN
+53.960558, -1.086522
+
+
+
+Children and Young People’s Services #9c89cc
+
+29 Castlegate
+29 Castlegate
+York
+YO1 9RN
+53.956618, -1.079937
+
+
+
+Cognitive Impairment Services #f1f075
+
+York Carers Centre
+17 Priory Street
+York
+YO16ET
+53.955946, -1.088558
+
+
+Psychological Therapies #f5c272
+Survive
+15 Priory Street
+York
+YO1 6ET
+53.956039, -1.088513
+
+
+
+
+
