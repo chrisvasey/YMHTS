@@ -13,7 +13,7 @@ Clarence Gardens Buildings
 Wiggington Road
 York
 YO31 8HG
-53.970831, -1.081375
+53.950215, -1.088263000000012
 
 
 
@@ -24,7 +24,7 @@ Club Chambers
 Museum Street
 York
 YO1 7DN
-53.960558, -1.086522
+53.961386, -1.080301999999989
 
 
 
